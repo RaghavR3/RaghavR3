@@ -2,7 +2,7 @@
 
 I'm a generalist — part PM, part engineer, part whatever the problem needs.
 
-My career has bounced between writing code and owning roadmaps, which means I can actually talk to both sides of the table. I started as engineering intern #1 at Honey Insurance (employee #15), grew into SWE and TPM roles there, then moved into pure product at Instant working on both growth and platform (A unique mix I know! But one I thoroughly enjoyed).
+My career has bounced between writing code and owning roadmaps, which means I can actually talk to both sides of the table. I started as intern #1 at Honey Insurance (employee #15), grew into SWE and TPM roles there, then moved into pure product at Instant working on both growth and platform (A unique mix I know! But one I thoroughly enjoyed).
 
 Right now I'm doing Special Projects at Weel — a bit of everything, which suits me fine.
 
